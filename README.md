@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @josephdelacruzzz
-- 👀 I’m interested in App Development and AI/ML
-- 🌱 I currently know Java and C++, but am learning Python
-
+- 👀 I’m interested in Web Development, Artificial Intelligence, and Machine Learning
+- 🌱 I currently know Java, C++, Assembly, Python
+- 📚 I have used the TensorFlow, NumPy, and Pandas libraries
+- 🔗 LinkedIn: https://www.linkedin.com/in/josephdelacruzzz
